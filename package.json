@@ -1,6 +1,1 @@
-{
-  "dependencies": {
-    "twikoo-vercel": "1.7.22",
-    "pushoo": "latest"
-  }
-}
+{ "dependencies": { "twikoo-vercel": "2.0.3" } }
